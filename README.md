@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello World! 👋 🌍🌎🌏
+
+- 🌱 I'm currently learning [Elixir](https://elixir-lang.org)
+- 🤝 [LinkedIn](https://www.linkedin.com/in/hartmeyer/)
 
 <!--
 **hartmeyer/hartmeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
