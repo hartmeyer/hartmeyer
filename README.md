@@ -1,6 +1,6 @@
 ### Hello World! 👋 🌍🌎🌏
 
-- 🌱 I'm currently learning [Elixir](https://elixir-lang.org)
+- 🌱 I am working on our latest product [Give With Click](https://givewithclick.com)
 - 🤝 [LinkedIn](https://www.linkedin.com/in/hartmeyer/)
 
 <!--
