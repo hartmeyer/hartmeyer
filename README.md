@@ -1,6 +1,5 @@
 ### Hello World! 👋 🌍🌎🌏
 
-- 🌱 I am working on our latest product [Give With Click](https://givewithclick.com)
 - 🔥 More updates coming soon!
 - 🤝 [LinkedIn](https://www.linkedin.com/in/hartmeyer/)
 
